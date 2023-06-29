@@ -2,9 +2,9 @@
 layout: page
 title: WaySub
 description: A website that facilitated the ordering of deli sandwiches at my high school.
-# img: assets/img/12.jpg
+img:
 importance: 1
-# category: work
+category: fun
 ---
 
 At the cafeteria of Wayland High School, which is the high school I went to, they had this deli station where you could get custom made sandwiches, made to order, with whatever ingredients you wanted. Now this was by far the best meal option during lunch time, so naturally everyone tried to get one, and the line would always be incredibly long.

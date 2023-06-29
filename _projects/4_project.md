@@ -2,9 +2,9 @@
 layout: page
 title: QuickReads
 description: A mobile app that allows you to read chat-gpt summarized news articles of your interest.
-# img: assets/img/12.jpg
+img:
 importance: 1
-# category: work
+category: work
 ---
 
 For my final project for my software engineering class, me and a group of classmates created a mobile application that allowed users to look for news articles they're interested in, and read chat-gpt summarized versions of those news articles.

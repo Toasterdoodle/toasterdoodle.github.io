@@ -2,9 +2,9 @@
 layout: page
 title: FaceRec
 description: A machine learning program that was capable of recognizing facial features.
-# img: assets/img/12.jpg
+img:
 importance: 1
-# category: work
+category: work
 ---
 
 For my final project for my machine learning class, I decided to make an application that could recognize facial features. I had been reading some papers about using ML to recognize objects within pictures, and wondered if an ML program would be capable of recognizing facial features. As it turns out, it can.

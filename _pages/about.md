@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, and thanks for looking at my personal site! I am currently a senior CS student at the University of Massachusetts Amherst who will be graduating this fall of 2023. Right now, I am seeking new-grad software engineering positions, so feel free to reach out to me through my email if you know of any available positions!
+Hello, and thanks for looking at my personal site! I am currently a senior CS student at the University of Massachusetts Amherst who will be graduating this fall of 2023. Right now, I am seeking new-grad software engineering positions, so feel free to reach out to me through my email (michaeljchen55@gmail.com) if you know of any available positions!
 
 In my free time, I enjoy creating piano arrangements of popular music, as well as taking portrait photographs. If you would like to see some of the photos that I have taken, please feel free to check out my [500px!](https://500px.com/p/toasterdoodle?view=photos)
 
