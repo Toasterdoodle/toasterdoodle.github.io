@@ -42,3 +42,5 @@ nav_order: 3
   {% endfor %}
 </div>
 {% endif %}
+
+<!-- this was originally in the _pages folder -->

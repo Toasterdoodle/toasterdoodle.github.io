@@ -11,3 +11,5 @@ children:
     - title: projects
       permalink: /projects/
 ---
+
+<!-- this was originally in the _pages folder -->

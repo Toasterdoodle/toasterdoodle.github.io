@@ -2,96 +2,116 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Michael Chen
     - name: Date of Birth
-      value: 14th March 1879
+      value: 19h October 2001
     - name: Languages
-      value: English, German
+      value: English, Mandarin Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: BS in Computer Science
+      institution: University of Massachusetts Amherst, MA, USA
+      year: 2020 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Majored in computer science at University of Massachusetts Amherst
+        - title: Relevant Classes
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Algorithms
+            - Data Structures
+            - Machine Learning
+            - Software Engineering
+            - Discrete Mathematics
+            - Digital Forensics
+            - Computer Systems
+            - Information Retrieval
+            - Human Computer Interaction
+            - Programming Methodology
+    - title: Exchange Student
+      institution: Yonsei University, Seoul, South Korea
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+      - Spent a semester studying at a top 3 university in South Korea taking economics related classes.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Summer Student
+      institution: MIT Beaverworks, Cambridge, MA
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Nominated by 3 teachers and then selected to be a student at Beaverworks, an intensive all-expenses paid summer program hosted by MIT.
+        - At Beaverworks, worked in a team to learn and implement algorithms for self-driving RC vehicles using LIDAR and computer vision.
+
+    - title: Intern
+      institution: Boston College, Chestnut Hill, MA
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Helped Boston College graduate researchers automate data collection using Python.
+        - Data had previously been collected manually, and the machines required constant attending.
+        - After the introduction of automated data collection, the machines were able to operate independently, saving the researchers lots of time.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Intern
+      institution: Liberty Mutual, Dover, NH
+      year: 2022
       description:
+        - Assisted in the transition from old on-site databases to new cloud-based databases hosted on Snowflake.
+        - Responsibilities included learning the functions of the old databases, and then attempting to recreate the same functions in the new cloud databases using node.js.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="http://waysub.com/main.html">WaySub</a>
+      year: 2019
+      description:
+        - A website that allowed high school students to pre-order deli sandwiches, and receive them at the cafeteria during lunch time.
+        - The project was highly successful during its 2 month trial run, and saw considerable use.
+        - Website was coded using HTML, CSS, and Javascript, with mongodb as a database.
+    - title: Face-Rec
+      year: 2022
+      description:
+        - A machine learning program which was capable of recognizing facial features.
+        - Written in Python using PyTorch and trained on the CelebA database (a database containing over 200,000 images of celebrities).
+        - The program was able to accurately determine the facial features of random subjects who inserted a photo of themselves.
+        - Final project for my machine learning class
+    - title: <a href="https://github.com/Toasterdoodle/cs446p3">Custom Search Engine</a>
+      year: 2023
+      description:
+        - Created a custom search engine that was able to search through a large database of scientific articles for articles related to a user's search query.
+        - The search engine was capable of recognizing combinations of words that could potentially be phrases, and handling the phrases separately.
+        - The search engine was able to rank each retrieved document with a score of how relevant it believed the document to be using natural language processing algorithms.
+    - title: QuickReads
+      year: 2023
+      description:
+        - An application that allows users to search for and read summarized news articles.
+        - Users would enter a keyword they are interested in, and the application would fetch news containing the keyword, and then summarize it using chat-gpt.
+        - Final project for my software engineering class.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Photography, Piano, Video Games

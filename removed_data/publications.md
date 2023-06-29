@@ -12,3 +12,5 @@ nav_order: 1
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
+
+<!-- this was originally in the _pages folder -->
