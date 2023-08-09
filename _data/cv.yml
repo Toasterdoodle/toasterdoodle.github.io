@@ -59,6 +59,13 @@
         - Assisted in the transition from old on-site databases to new cloud-based databases hosted on Snowflake.
         - Responsibilities included learning the functions of the old databases, and then attempting to recreate the same functions in the new cloud databases using node.js.
 
+    - title: Researcher
+      institution: UC Riverside, Riverside, CA
+      year: 2023
+      description:
+        - Worked with PhD students and professors on a paper regarding the use of ML and NLP to detect Covid-19 misinformation in news articles.
+        - Implemented the use of kernels and matrix decomposition in the classification algorithm to improve the accuracy of the model by up to 10%.
+
 - title: Projects
   type: time_table
   contents:
