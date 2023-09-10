@@ -28,6 +28,7 @@
             - Information Retrieval
             - Human Computer Interaction
             - Programming Methodology
+            - Game Theory
     - title: Exchange Student
       institution: Yonsei University, Seoul, South Korea
       year: 2022
@@ -65,6 +66,7 @@
       description:
         - Worked with PhD students and professors on a paper regarding the use of ML and NLP to detect Covid-19 misinformation in news articles.
         - Implemented the use of kernels and matrix decomposition in the classification algorithm to improve the accuracy of the model by up to 10%.
+        - Post-summer, currently working with the professors on a journal paper extension about the benefits of SVD low- rank approximation in classification algorithms.
 
 - title: Projects
   type: time_table
